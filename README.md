@@ -19,11 +19,11 @@ This project demonstrates:
 - **Visualization**: Using `matplotlib` and `seaborn` for visualizing relationships and distributions across various restaurant features.
 
 
-```
+
 
 2. **Navigate to the project directory**:
 
-```
+
 3. Open `Zomato Dataset Analysis.ipynb` in jupyter notebook and run all cells one by one.
 
 ## Dataset
